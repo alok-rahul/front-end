@@ -1,6 +1,5 @@
 FROM node:4-alpine 
 
-
 WORKDIR /opt/frontend
 
 COPY . .
